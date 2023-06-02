@@ -12,7 +12,7 @@ For example if there is an image subfolder under your extension project workspac
 # How to run?
 > To run the extension you can use:
 * ### Ctrl+Shift+L
-* ### Ctrl+Shift+L and type "*Open with Localhost*"
+* ### Ctrl+Shift+P and type "*Open with Localhost*"
 
 ![Alt Text](run.gif)
 
